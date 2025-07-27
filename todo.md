@@ -26,8 +26,8 @@
 - [x] Performance Testing.
 
 ### Phase 6: Deployment
-- [ ] Local Deployment.
-- [ ] Cloud Deployment.
-- [ ] Environment Setup.
-- [ ] Create comprehensive documentation.
+- [x] Local Deployment.
+- [x] Cloud Deployment.
+- [x] Environment Setup.
+- [x] Create comprehensive documentation.
 
